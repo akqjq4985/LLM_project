@@ -1,0 +1,5 @@
+env/
+.env
+.cache/
+.streamlit
+pdf2ppt.py
